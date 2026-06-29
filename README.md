@@ -1,59 +1,43 @@
-# Hi! I'm Gustavo Ferreira 👋
+# Hi, I'm Gustavo Ferreira 👋
 
-Computer Science Student from Brazil 🇧🇷
+Computer Science student from Brazil passionate about backend development, software architecture and building robust applications.
 
-I'm passionate about backend development, software architecture and solving real-world problems through code.
+I enjoy understanding how software works under the hood, from data structures and algorithms to complete web systems. My goal is to become a backend developer capable of designing clean, scalable and maintainable solutions.
 
-Currently improving my skills through personal projects and continuous learning.
+This GitHub is my development journal, where I share projects, experiments and everything I build while improving as a software engineer.
 
 ---
 
-## 🚀 Technologies
+## 💻 Main Technologies
 
 - PHP
 - MySQL
 - C
 - C++
+- Git
 - HTML
 - CSS
-- Git
 - Arduino
 
 ---
 
-## 📚 Currently Learning
+## 🌱 Currently Learning
 
+- Pentest with Solyd
 - REST APIs
 - Software Architecture
 - Design Patterns
-- Testing
+- Automated Testing
 
 ---
 
-## 🎯 Goals
+## 🎯 2026 Goals
 
-- Become a Backend Developer
-- Become a professional into cybersecurity
-- Build professional software
-- Contribute to Open Source
-- Keep learning every day
-
----
-
-## 📌 Featured Projects
-
-🚧 Coming soon...
-
-- Data Structures
-- Algorithms
-- Library API
-- ERP
-- Portfolio Website
+- Build a complete ERP system
+- Publish professional backend projects
+- Contribute to open-source software
+- Land my first Software Developer position
 
 ---
 
-## 📫 Contact
-
-LinkedIn *https://www.linkedin.com/in/gustavobarrosf/*
-
-Email: *gustavobarrosferreira49@gmail.com*
+> "Every project is an opportunity to become a better engineer."
