@@ -11,6 +11,7 @@ This GitHub is my development journal, where I share projects, experiments and e
 ## 💻 Main Technologies
 
 - PHP
+- Python
 - MySQL
 - C
 - C++
